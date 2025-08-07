@@ -4,7 +4,7 @@ A simple command-line interface (CLI) application that simulates the basic funct
 
 ### Live Demo (GIF)
 
-![GIF of the application running](atm_demo.gif)
+![GIF of the application running](atmjavaveetgt.gif)
 
 ---
 
@@ -18,8 +18,6 @@ A simple command-line interface (CLI) application that simulates the basic funct
 ---
 
 ### OOP Concepts Applied
-
-This project was built to solidify the understanding of the following OOP pillars:
 
 - **Classes and Objects:** The `Account` class serves as a blueprint, and an `Account` object is instantiated in the `ATM` class to be manipulated.
 - **Encapsulation:** All attributes (`balance`, `accountHolder`, etc.) are `private`, ensuring data integrity. They can only be accessed and modified through public methods like `getBalance()`, `deposit()`, and `withdraw()`.
